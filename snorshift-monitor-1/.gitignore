@@ -51,3 +51,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# Universal node_modules ignore (sabse important)
+node_modules/
+**/node_modules/
+
+# Vite/React specific
+snorshift-monitor/node_modules/
+snorshift-monitor/dist/
