@@ -1,0 +1,231 @@
+Time,Event,Action,Result
+2026-04-19T05:33:51.998808+00:00,Snore @ 443Hz,Count #1,FSR=FSR_C
+2026-04-19T05:33:52.005163+00:00,Step A,INFLATE_10 sent,Level 1/3
+2026-04-19T05:33:52.007430+00:00,Step B,10s verification window,Holding…
+2026-04-19T05:33:55.312357+00:00,AOS Monitor,Silence detected,Starting 15s apnea timer
+2026-04-19T05:33:58.711000+00:00,Snore @ 421Hz,Count #2,FSR=FSR_C
+2026-04-19T05:33:58.711000+00:00,Step A,INFLATE_20 sent,Level 2/3
+2026-04-19T05:33:58.711000+00:00,Step B,10s verification window,Holding…
+2026-04-19T05:34:18.971286+00:00,Snore @ 130Hz,Count #1,FSR=FSR_C
+2026-04-19T05:34:18.971286+00:00,Step A,INFLATE_10 sent,Level 1/3
+2026-04-19T05:34:18.974816+00:00,Step B,10s verification window,Holding…
+2026-04-19T05:34:22.325159+00:00,Snore @ 309Hz,Count #2,FSR=FSR_C
+2026-04-19T05:34:22.326331+00:00,Step A,INFLATE_20 sent,Level 2/3
+2026-04-19T05:34:22.326331+00:00,Step B,10s verification window,Holding…
+2026-04-19T05:34:25.693303+00:00,Snore @ 255Hz,Count #3,FSR=FSR_C
+2026-04-19T05:34:25.693303+00:00,Step A,INFLATE_30 sent,Level 3/3
+2026-04-19T05:34:25.693303+00:00,Step B,10s verification window,Holding…
+2026-04-19T05:34:28.979210+00:00,Step C,Re-listening after 10s,Capturing…
+2026-04-19T05:34:29.054458+00:00,Snore @ 177Hz,Count #4,FSR=FSR_C
+2026-04-19T05:34:29.054458+00:00,Escalation,Max tilt → HAPTIC,Micro-arousal
+2026-04-19T05:34:32.327818+00:00,Step C,Re-listening after 10s,Capturing…
+2026-04-19T05:34:32.398792+00:00,Snore @ 197Hz,Count #5,FSR=FSR_C
+2026-04-19T05:34:32.398792+00:00,Step C Result,Snore persists → INFLATE_MORE,
+2026-04-19T05:34:32.404059+00:00,Escalation,Max tilt → HAPTIC,Micro-arousal
+2026-04-19T05:34:35.705553+00:00,Snore @ 204Hz,Count #6,FSR=FSR_C
+2026-04-19T05:34:35.705553+00:00,Step C,Re-listening after 10s,Capturing…
+2026-04-19T05:34:35.705553+00:00,Escalation,Max tilt → HAPTIC,Micro-arousal
+2026-04-19T05:34:35.742309+00:00,Step C Result,Snore persists → INFLATE_MORE,
+2026-04-19T05:34:39.056091+00:00,Snore @ 260Hz,Count #7,FSR=FSR_C
+2026-04-19T05:34:39.057113+00:00,Escalation,Max tilt → HAPTIC,Micro-arousal
+2026-04-19T05:34:39.097351+00:00,Step C Result,Snore persists → INFLATE_MORE,
+2026-04-19T05:34:42.415942+00:00,Snore @ 256Hz,Count #8,FSR=FSR_C
+2026-04-19T05:34:42.415942+00:00,Escalation,Max tilt → HAPTIC,Micro-arousal
+2026-04-19T05:40:44.435930+00:00,Awake,Speech detected,Session paused
+2026-04-19T05:40:48.177811+00:00,Awake,Speech detected,Session paused
+2026-04-19T05:40:51.967585+00:00,Awake,Speech detected,Session paused
+2026-04-19T05:40:55.582664+00:00,Awake,Speech detected,Session paused
+2026-04-19T05:40:59.355432+00:00,Awake,Speech detected,Session paused
+2026-04-19T05:41:02.955846+00:00,Awake,Speech detected,Session paused
+2026-04-19T05:41:06.522673+00:00,Awake,Speech detected,Session paused
+2026-04-19T05:41:10.312167+00:00,Awake,Speech detected,Session paused
+2026-04-19T05:41:14.127085+00:00,Awake,Speech detected,Session paused
+2026-04-19T05:41:17.783051+00:00,Awake,Speech detected,Session paused
+2026-04-19T05:41:21.527764+00:00,Awake,Speech detected,Session paused
+2026-04-19T05:41:25.197013+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:02:44.106822+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:02:47.715635+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:02:51.286824+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:02:54.909291+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:02:58.620395+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:03:02.375008+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:03:05.979201+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:03:09.760825+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:03:13.501516+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:03:17.073842+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:03:20.833693+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:03:24.360841+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:03:27.930618+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:03:31.587310+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:03:35.205848+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:03:38.787658+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:03:42.609407+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:03:46.167234+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:03:49.871945+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:03:53.436129+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:03:57.053855+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:04:00.606744+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:04:04.179551+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:04:07.784291+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:04:11.461252+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:04:15.086208+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:04:18.801208+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:04:22.473509+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:04:26.085222+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:04:29.839012+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:04:33.446234+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:04:37.030908+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:04:40.654121+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:04:44.248518+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:04:47.790779+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:04:51.577394+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:04:55.259877+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:04:58.886691+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:05:02.760075+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:05:06.424113+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:05:09.941973+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:05:13.822687+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:05:17.435021+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:05:21.029841+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:05:24.662479+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:05:28.215359+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:05:31.895969+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:05:35.681901+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:05:39.415509+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:05:43.182918+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:05:46.770602+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:05:50.427611+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:05:54.167934+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:05:57.758715+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:06:01.307031+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:06:04.912427+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:06:08.556812+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:06:12.274005+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:06:15.919321+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:06:19.473324+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:06:23.141383+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:06:26.680508+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:06:30.415767+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:06:34.133642+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:06:37.865688+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:06:41.565574+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:06:45.191178+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:06:48.864736+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:06:52.581441+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:06:56.166298+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:06:59.730566+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:07:03.371398+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:07:06.952749+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:07:10.688293+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:07:14.244273+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:07:17.918837+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:07:21.598997+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:07:25.164315+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:07:28.991479+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:07:32.541164+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:09:49.966519+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:09:53.845561+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:09:57.396466+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:10:00.993813+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:10:04.610859+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:10:08.348488+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:10:12.114512+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:10:15.860396+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:10:19.624419+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:10:23.329781+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:10:27.080955+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:10:30.856683+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:10:34.533119+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:10:38.055362+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:10:41.602808+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:10:45.159130+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:10:48.967490+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:10:52.731560+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:10:56.473987+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:11:00.218352+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:11:03.990176+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:11:07.744352+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:11:11.486952+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:11:15.230634+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:11:19.013082+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:11:22.739390+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:11:26.514780+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:11:30.286823+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:11:34.046670+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:11:37.812778+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:11:41.552926+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:11:45.325995+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:11:49.133755+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:11:52.895681+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:11:56.706815+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:12:00.279201+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:12:03.952120+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:12:07.788368+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:12:11.547632+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:12:15.255869+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:12:19.021391+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:12:22.777878+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:12:26.521152+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:12:30.257617+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:12:34.024275+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:12:37.769378+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:12:41.481299+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:12:45.219602+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:12:48.993565+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:12:52.593170+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:12:56.173989+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:12:59.915513+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:13:03.515308+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:13:07.276143+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:13:11.007477+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:13:14.595881+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:13:18.200587+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:13:21.750445+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:13:25.391524+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:13:29.028051+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:13:32.647469+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:13:36.456392+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:13:40.209027+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:13:43.963824+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:13:47.682852+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:13:51.349077+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:13:54.980352+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:13:58.673478+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:14:02.291939+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:14:05.942877+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:14:09.748020+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:14:13.467771+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:14:17.169848+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:14:20.866699+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:14:24.477786+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:14:28.287850+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:14:31.983579+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:14:35.760917+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:14:39.544205+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:14:43.165292+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:14:46.761984+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:14:50.643484+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:14:54.485508+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:14:58.321954+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:15:02.144320+00:00,AOS Monitor,Silence detected,Starting 15s apnea timer
+2026-04-19T06:15:05.934778+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:15:09.809254+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:15:13.632589+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:15:17.497674+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:20:34.135589+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:20:37.963432+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:20:41.774658+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:20:45.378382+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:20:49.269186+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:20:53.104934+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:20:56.777831+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:21:00.617920+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:21:04.454989+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:21:08.299178+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:38:58.923997+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:39:02.786397+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:39:06.437651+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:39:10.118441+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:39:13.984196+00:00,AOS Monitor,Silence detected,Starting 15s apnea timer
+2026-04-19T06:39:21.376899+00:00,Awake,Speech detected,Session paused
+2026-04-19T06:39:25.193769+00:00,AOS Monitor,Silence detected,Starting 15s apnea timer
